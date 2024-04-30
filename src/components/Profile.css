@@ -1,0 +1,26 @@
+.profile-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .profile-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .user-info {
+    margin-bottom: 20px;
+  }
+  
+  .profile-buttons button,
+  .auth-buttons button {
+    margin-right: 10px;
+    background: #fff;
+    cursor: pointer;
+  }
+  
+  .profile-buttons button:last-child,
+  .auth-buttons button:last-child {
+    margin-right: 0;
+  }
+  

@@ -1,0 +1,31 @@
+/* BuyPetrol.css */
+.buy-petrol-container {
+    max-width: 600px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .buy-petrol-container h2 {
+    color: #333;
+  }
+  
+  .buy-petrol-container p {
+    margin: 10px 0;
+  }
+  
+  .buy-petrol-container button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .buy-petrol-container button:hover {
+    background-color: #0056b3;
+  }
+  
